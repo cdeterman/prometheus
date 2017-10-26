@@ -1,0 +1,16 @@
+Package: prometheus
+Type: Package
+Title: A performant, flexible neural network framework 
+  for the R ecosystem.
+Version: 1.0
+Date: 2017-10-16
+Author: Charles Determan Jr.
+Maintainer: Charles Determan Jr. <cdetermanjr@gmail.com>
+Description: Provides a flexible interface for building 
+  neural network models
+License: GPL (>=2)
+Imports: R6
+Encoding: UTF-8
+URL: http://github.com/cdeterman/prometheus
+BugReports: http:github.com/cdeterman/prometheus/issues/new
+RoxygenNote: 6.0.1

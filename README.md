@@ -1,4 +1,4 @@
-# gpuRNN
+# prometheus
 
 Although there are many neural network implementations either directly
 written in R, such as [nnet](https://CRAN.R-project.org/package=nnet) and 
@@ -16,3 +16,5 @@ in the R language.
 The intention is to allow this package to use whatever backend the user
 wishes provided the necessary functions are implemented for the objects.
 
+For those curious, the name is a reference to the Greek Titan Prometheus
+who is considered the God of forethought.
